@@ -1,6 +1,6 @@
 # API REST -- Sistema de cadastro de livros
 
-Status do projeto: Finalizada
+Status do projeto: Finalizado
 
 **API REST** desenvolvida em NODE.js para gerenciamento de cadastro de livros e autores. Utiliza o framework Express para rotas, MongoDB com Mongoose para o banco de dados e middlewares para tratamento de erros.
 
